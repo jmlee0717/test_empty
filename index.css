@@ -1,0 +1,22 @@
+body {
+    margin: 10;
+    padding: 10;
+    background: #fff;
+    color: #8ddb85;
+  }
+  header, footer {
+    font-size: large;
+    text-align: left;
+    padding: 0.3em 0;
+    background-color: #da1c1c;
+    color: #f9f9f9;
+  }
+  nav {
+    background: #eee;
+  }
+  main {
+    background: #f9f9f9;
+  }
+  aside {
+    background: #eee;
+  }
